@@ -1,0 +1,7 @@
+C:\Csharp\IteratorsAndYieldExample\IteratorsAndYieldExample\bin\Debug\IteratorsAndYieldExample.exe.config
+C:\Csharp\IteratorsAndYieldExample\IteratorsAndYieldExample\bin\Debug\IteratorsAndYieldExample.exe
+C:\Csharp\IteratorsAndYieldExample\IteratorsAndYieldExample\bin\Debug\IteratorsAndYieldExample.pdb
+C:\Csharp\IteratorsAndYieldExample\IteratorsAndYieldExample\obj\Debug\IteratorsAndYieldExample.csproj.AssemblyReference.cache
+C:\Csharp\IteratorsAndYieldExample\IteratorsAndYieldExample\obj\Debug\IteratorsAndYieldExample.csproj.CoreCompileInputs.cache
+C:\Csharp\IteratorsAndYieldExample\IteratorsAndYieldExample\obj\Debug\IteratorsAndYieldExample.exe
+C:\Csharp\IteratorsAndYieldExample\IteratorsAndYieldExample\obj\Debug\IteratorsAndYieldExample.pdb
